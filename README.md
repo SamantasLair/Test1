@@ -14,3 +14,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 ## Tracker Log
 | Problem ID | Title | Category | Difficulty | Status |
 | :--- | :--- | :--- | :--- | :--- |
+| 020 | Coin Change #20 | `math_and_bit_manipulation` | Hard | Solved (2021-11-23) |
