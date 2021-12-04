@@ -17,3 +17,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 020 | Coin Change #20 | `math_and_bit_manipulation` | Hard | Solved (2021-11-23) |
 | 020 | Coin Change #20 | `math_and_bit_manipulation` | Hard | Solved (2021-11-23) |
 | 035 | Two Sum #35 | `arrays_and_hashing` | Hard | Solved (2021-11-29) |
+| 039 | Reverse Linked List #39 | `trees_and_graphs` | Easy | Solved (2021-12-04) |
