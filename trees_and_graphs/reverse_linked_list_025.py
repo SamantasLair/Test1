@@ -19,3 +19,6 @@ def reverse_list(head):
         cur = cur.next
     return head
 
+
+# Refactor Iteration 2 (2021-12-10):
+# Added memoization / pointer optimization
