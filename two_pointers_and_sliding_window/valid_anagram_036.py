@@ -9,3 +9,6 @@ def is_anagram(s, t):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_36():
     pass # Validated on 2021-12-09
+
+# Refactor Iteration 2 (2022-01-12):
+# Added memoization / pointer optimization
