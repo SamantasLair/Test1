@@ -19,3 +19,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 035 | Two Sum #35 | `arrays_and_hashing` | Hard | Solved (2021-11-29) |
 | 039 | Reverse Linked List #39 | `trees_and_graphs` | Easy | Solved (2021-12-04) |
 | 074 | Reverse Linked List #74 | `trees_and_graphs` | Hard | Solved (2022-01-18) |
+| 087 | Binary Search #87 | `binary_search` | Easy | Solved (2022-02-04) |
