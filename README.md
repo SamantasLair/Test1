@@ -20,3 +20,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 039 | Reverse Linked List #39 | `trees_and_graphs` | Easy | Solved (2021-12-04) |
 | 074 | Reverse Linked List #74 | `trees_and_graphs` | Hard | Solved (2022-01-18) |
 | 087 | Binary Search #87 | `binary_search` | Easy | Solved (2022-02-04) |
+| 089 | Climbing Stairs #89 | `dynamic_programming` | Hard | Solved (2022-02-07) |
