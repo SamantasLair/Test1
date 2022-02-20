@@ -22,3 +22,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 087 | Binary Search #87 | `binary_search` | Easy | Solved (2022-02-04) |
 | 089 | Climbing Stairs #89 | `dynamic_programming` | Hard | Solved (2022-02-07) |
 | 099 | Valid Anagram #99 | `two_pointers_and_sliding_window` | Easy | Solved (2022-02-18) |
+| 099 | Valid Anagram #99 | `two_pointers_and_sliding_window` | Easy | Solved (2022-02-20) |
