@@ -15,3 +15,6 @@ def verify_test_cases_31():
 
 # Refactor Iteration 2 (2021-12-17):
 # Added memoization / pointer optimization
+
+# Refactor Iteration 3 (2022-02-24):
+# Added memoization / pointer optimization
