@@ -25,3 +25,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 099 | Valid Anagram #99 | `two_pointers_and_sliding_window` | Easy | Solved (2022-02-20) |
 | 118 | Coin Change #118 | `math_and_bit_manipulation` | Medium | Solved (2022-03-11) |
 | 124 | Climbing Stairs #124 | `dynamic_programming` | Medium | Solved (2022-03-17) |
+| 132 | Coin Change #132 | `math_and_bit_manipulation` | Easy | Solved (2022-03-28) |
