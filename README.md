@@ -26,3 +26,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 118 | Coin Change #118 | `math_and_bit_manipulation` | Medium | Solved (2022-03-11) |
 | 124 | Climbing Stairs #124 | `dynamic_programming` | Medium | Solved (2022-03-17) |
 | 132 | Coin Change #132 | `math_and_bit_manipulation` | Easy | Solved (2022-03-28) |
+| 137 | Reverse Linked List #137 | `trees_and_graphs` | Hard | Solved (2022-04-04) |
