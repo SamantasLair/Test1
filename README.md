@@ -31,3 +31,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 137 | Reverse Linked List #137 | `trees_and_graphs` | Hard | Solved (2022-04-05) |
 | 140 | Two Sum #140 | `arrays_and_hashing` | Hard | Solved (2022-04-16) |
 | 140 | Two Sum #140 | `arrays_and_hashing` | Hard | Solved (2022-04-18) |
+| 148 | Valid Anagram #148 | `two_pointers_and_sliding_window` | Medium | Solved (2022-04-29) |
