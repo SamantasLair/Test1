@@ -34,3 +34,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 148 | Valid Anagram #148 | `two_pointers_and_sliding_window` | Medium | Solved (2022-04-29) |
 | 157 | Binary Search #157 | `binary_search` | Medium | Solved (2022-05-06) |
 | 158 | Reverse Linked List #158 | `trees_and_graphs` | Hard | Solved (2022-05-10) |
+| 158 | Reverse Linked List #158 | `trees_and_graphs` | Hard | Solved (2022-05-11) |
