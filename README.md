@@ -36,3 +36,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 158 | Reverse Linked List #158 | `trees_and_graphs` | Hard | Solved (2022-05-10) |
 | 158 | Reverse Linked List #158 | `trees_and_graphs` | Hard | Solved (2022-05-11) |
 | 165 | Reverse Linked List #165 | `trees_and_graphs` | Easy | Solved (2022-05-18) |
+| 170 | Maximum Subarray #170 | `stack_and_queues` | Hard | Solved (2022-05-24) |
