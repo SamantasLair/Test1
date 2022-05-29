@@ -19,3 +19,6 @@ def max_sub(nums):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_58():
     pass # Validated on 2022-05-23
+
+# Refactor Iteration 3 (2022-05-29):
+# Added memoization / pointer optimization
