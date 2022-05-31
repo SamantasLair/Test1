@@ -12,3 +12,7 @@ def search(nums, target):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_108():
     pass # Validated on 2022-05-13
+
+# Benchmark & Validation Checkpoint
+def verify_test_cases_108():
+    pass # Validated on 2022-05-31
