@@ -38,3 +38,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 165 | Reverse Linked List #165 | `trees_and_graphs` | Easy | Solved (2022-05-18) |
 | 170 | Maximum Subarray #170 | `stack_and_queues` | Hard | Solved (2022-05-24) |
 | 170 | Maximum Subarray #170 | `stack_and_queues` | Hard | Solved (2022-05-24) |
+| 176 | Valid Anagram #176 | `two_pointers_and_sliding_window` | Hard | Solved (2022-06-01) |
