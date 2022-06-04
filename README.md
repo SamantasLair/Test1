@@ -40,3 +40,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 170 | Maximum Subarray #170 | `stack_and_queues` | Hard | Solved (2022-05-24) |
 | 176 | Valid Anagram #176 | `two_pointers_and_sliding_window` | Hard | Solved (2022-06-01) |
 | 179 | Reverse Linked List #179 | `trees_and_graphs` | Hard | Solved (2022-06-02) |
+| 189 | Two Sum #189 | `arrays_and_hashing` | Easy | Solved (2022-06-04) |
