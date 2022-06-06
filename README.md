@@ -42,3 +42,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 179 | Reverse Linked List #179 | `trees_and_graphs` | Hard | Solved (2022-06-02) |
 | 189 | Two Sum #189 | `arrays_and_hashing` | Easy | Solved (2022-06-04) |
 | 191 | Maximum Subarray #191 | `stack_and_queues` | Hard | Solved (2022-06-05) |
+| 195 | Coin Change #195 | `math_and_bit_manipulation` | Easy | Solved (2022-06-06) |
