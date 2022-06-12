@@ -45,3 +45,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 195 | Coin Change #195 | `math_and_bit_manipulation` | Easy | Solved (2022-06-06) |
 | 201 | Climbing Stairs #201 | `dynamic_programming` | Easy | Solved (2022-06-08) |
 | 212 | Maximum Subarray #212 | `stack_and_queues` | Hard | Solved (2022-06-12) |
+| 212 | Maximum Subarray #212 | `stack_and_queues` | Hard | Solved (2022-06-12) |
