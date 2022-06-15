@@ -51,3 +51,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 217 | Two Sum #217 | `arrays_and_hashing` | Medium | Solved (2022-06-14) |
 | 217 | Two Sum #217 | `arrays_and_hashing` | Medium | Solved (2022-06-14) |
 | 219 | Maximum Subarray #219 | `stack_and_queues` | Easy | Solved (2022-06-15) |
+| 219 | Maximum Subarray #219 | `stack_and_queues` | Easy | Solved (2022-06-15) |
