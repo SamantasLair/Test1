@@ -53,3 +53,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 219 | Maximum Subarray #219 | `stack_and_queues` | Easy | Solved (2022-06-15) |
 | 219 | Maximum Subarray #219 | `stack_and_queues` | Easy | Solved (2022-06-15) |
 | 222 | Climbing Stairs #222 | `dynamic_programming` | Easy | Solved (2022-06-16) |
+| 222 | Climbing Stairs #222 | `dynamic_programming` | Easy | Solved (2022-06-16) |
