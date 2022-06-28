@@ -55,3 +55,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 222 | Climbing Stairs #222 | `dynamic_programming` | Easy | Solved (2022-06-16) |
 | 222 | Climbing Stairs #222 | `dynamic_programming` | Easy | Solved (2022-06-16) |
 | 228 | Reverse Linked List #228 | `trees_and_graphs` | Easy | Solved (2022-06-23) |
+| 230 | Coin Change #230 | `math_and_bit_manipulation` | Hard | Solved (2022-06-28) |
