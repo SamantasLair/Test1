@@ -58,3 +58,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 230 | Coin Change #230 | `math_and_bit_manipulation` | Hard | Solved (2022-06-28) |
 | 235 | Reverse Linked List #235 | `trees_and_graphs` | Medium | Solved (2022-07-21) |
 | 235 | Reverse Linked List #235 | `trees_and_graphs` | Medium | Solved (2022-07-21) |
+| 237 | Coin Change #237 | `math_and_bit_manipulation` | Easy | Solved (2022-07-28) |
