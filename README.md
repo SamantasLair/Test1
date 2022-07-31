@@ -59,3 +59,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 235 | Reverse Linked List #235 | `trees_and_graphs` | Medium | Solved (2022-07-21) |
 | 235 | Reverse Linked List #235 | `trees_and_graphs` | Medium | Solved (2022-07-21) |
 | 237 | Coin Change #237 | `math_and_bit_manipulation` | Easy | Solved (2022-07-28) |
+| 237 | Coin Change #237 | `math_and_bit_manipulation` | Easy | Solved (2022-07-31) |
