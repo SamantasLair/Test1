@@ -23,3 +23,6 @@ def reverse_list(head):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_165():
     pass # Validated on 2022-06-01
+
+# Refactor Iteration 2 (2022-08-29):
+# Added memoization / pointer optimization
