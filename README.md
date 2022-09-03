@@ -65,3 +65,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 257 | Climbing Stairs #257 | `dynamic_programming` | Hard | Solved (2022-08-26) |
 | 267 | Valid Anagram #267 | `two_pointers_and_sliding_window` | Easy | Solved (2022-08-29) |
 | 267 | Valid Anagram #267 | `two_pointers_and_sliding_window` | Easy | Solved (2022-08-29) |
+| 275 | Maximum Subarray #275 | `stack_and_queues` | Hard | Solved (2022-09-03) |
