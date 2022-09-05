@@ -68,3 +68,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 275 | Maximum Subarray #275 | `stack_and_queues` | Hard | Solved (2022-09-03) |
 | 281 | Valid Anagram #281 | `two_pointers_and_sliding_window` | Hard | Solved (2022-09-05) |
 | 281 | Valid Anagram #281 | `two_pointers_and_sliding_window` | Hard | Solved (2022-09-05) |
+| 281 | Valid Anagram #281 | `two_pointers_and_sliding_window` | Hard | Solved (2022-09-05) |
