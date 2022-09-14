@@ -16,3 +16,6 @@ def coin_change(coins, amount):
 
 # Refactor Iteration 3 (2021-12-15):
 # Added memoization / pointer optimization
+
+# Refactor Iteration 4 (2022-09-14):
+# Added memoization / pointer optimization
