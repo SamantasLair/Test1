@@ -70,3 +70,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 281 | Valid Anagram #281 | `two_pointers_and_sliding_window` | Hard | Solved (2022-09-05) |
 | 281 | Valid Anagram #281 | `two_pointers_and_sliding_window` | Hard | Solved (2022-09-05) |
 | 290 | Binary Search #290 | `binary_search` | Hard | Solved (2022-09-13) |
+| 291 | Reverse Linked List #291 | `trees_and_graphs` | Easy | Solved (2022-09-15) |
