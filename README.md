@@ -73,3 +73,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 291 | Reverse Linked List #291 | `trees_and_graphs` | Easy | Solved (2022-09-15) |
 | 297 | Binary Search #297 | `binary_search` | Easy | Solved (2022-09-23) |
 | 299 | Climbing Stairs #299 | `dynamic_programming` | Hard | Solved (2022-09-26) |
+| 302 | Valid Anagram #302 | `two_pointers_and_sliding_window` | Hard | Solved (2022-09-27) |
