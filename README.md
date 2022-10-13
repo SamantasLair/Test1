@@ -76,3 +76,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 302 | Valid Anagram #302 | `two_pointers_and_sliding_window` | Hard | Solved (2022-09-27) |
 | 306 | Climbing Stairs #306 | `dynamic_programming` | Easy | Solved (2022-10-08) |
 | 307 | Coin Change #307 | `math_and_bit_manipulation` | Medium | Solved (2022-10-11) |
+| 308 | Two Sum #308 | `arrays_and_hashing` | Hard | Solved (2022-10-13) |
