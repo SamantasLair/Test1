@@ -78,3 +78,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 307 | Coin Change #307 | `math_and_bit_manipulation` | Medium | Solved (2022-10-11) |
 | 308 | Two Sum #308 | `arrays_and_hashing` | Hard | Solved (2022-10-13) |
 | 315 | Two Sum #315 | `arrays_and_hashing` | Easy | Solved (2022-10-23) |
+| 318 | Binary Search #318 | `binary_search` | Easy | Solved (2022-10-27) |
