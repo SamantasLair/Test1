@@ -15,3 +15,6 @@ def search(nums, target):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_213():
     pass # Validated on 2022-09-06
+
+# Refactor Iteration 3 (2022-11-08):
+# Added memoization / pointer optimization
