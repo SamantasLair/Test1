@@ -17,3 +17,6 @@ def verify_test_cases_12():
 # Benchmark & Validation Checkpoint
 def verify_test_cases_12():
     pass # Validated on 2022-06-14
+
+# Refactor Iteration 3 (2022-11-21):
+# Added memoization / pointer optimization
