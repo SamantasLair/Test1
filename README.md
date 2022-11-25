@@ -80,3 +80,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 315 | Two Sum #315 | `arrays_and_hashing` | Easy | Solved (2022-10-23) |
 | 318 | Binary Search #318 | `binary_search` | Easy | Solved (2022-10-27) |
 | 328 | Coin Change #328 | `math_and_bit_manipulation` | Medium | Solved (2022-11-14) |
+| 337 | Valid Anagram #337 | `two_pointers_and_sliding_window` | Medium | Solved (2022-11-25) |
