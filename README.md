@@ -83,3 +83,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 337 | Valid Anagram #337 | `two_pointers_and_sliding_window` | Medium | Solved (2022-11-25) |
 | 337 | Valid Anagram #337 | `two_pointers_and_sliding_window` | Medium | Solved (2022-11-27) |
 | 343 | Two Sum #343 | `arrays_and_hashing` | Medium | Solved (2022-12-08) |
+| 347 | Reverse Linked List #347 | `trees_and_graphs` | Hard | Solved (2022-12-14) |
