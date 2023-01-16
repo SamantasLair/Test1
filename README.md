@@ -85,3 +85,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 343 | Two Sum #343 | `arrays_and_hashing` | Medium | Solved (2022-12-08) |
 | 347 | Reverse Linked List #347 | `trees_and_graphs` | Hard | Solved (2022-12-14) |
 | 348 | Climbing Stairs #348 | `dynamic_programming` | Easy | Solved (2022-12-16) |
+| 363 | Coin Change #363 | `math_and_bit_manipulation` | Easy | Solved (2023-01-16) |
