@@ -88,3 +88,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 363 | Coin Change #363 | `math_and_bit_manipulation` | Easy | Solved (2023-01-16) |
 | 365 | Valid Anagram #365 | `two_pointers_and_sliding_window` | Hard | Solved (2023-01-23) |
 | 366 | Maximum Subarray #366 | `stack_and_queues` | Easy | Solved (2023-01-25) |
+| 368 | Reverse Linked List #368 | `trees_and_graphs` | Hard | Solved (2023-01-27) |
