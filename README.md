@@ -92,3 +92,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 369 | Climbing Stairs #369 | `dynamic_programming` | Easy | Solved (2023-01-31) |
 | 369 | Climbing Stairs #369 | `dynamic_programming` | Easy | Solved (2023-02-01) |
 | 372 | Valid Anagram #372 | `two_pointers_and_sliding_window` | Easy | Solved (2023-02-04) |
+| 372 | Valid Anagram #372 | `two_pointers_and_sliding_window` | Easy | Solved (2023-02-06) |
