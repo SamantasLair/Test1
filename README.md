@@ -97,3 +97,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 381 | Binary Search #381 | `binary_search` | Easy | Solved (2023-02-13) |
 | 382 | Reverse Linked List #382 | `trees_and_graphs` | Medium | Solved (2023-02-15) |
 | 382 | Reverse Linked List #382 | `trees_and_graphs` | Medium | Solved (2023-02-16) |
+| 385 | Two Sum #385 | `arrays_and_hashing` | Medium | Solved (2023-02-22) |
