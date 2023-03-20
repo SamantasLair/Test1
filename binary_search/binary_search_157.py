@@ -11,3 +11,6 @@ def search(nums, target):
 
 # Refactor Iteration 2 (2022-06-04):
 # Added memoization / pointer optimization
+
+# Refactor Iteration 3 (2023-03-20):
+# Added memoization / pointer optimization
