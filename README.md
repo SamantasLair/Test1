@@ -103,3 +103,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 395 | Binary Search #395 | `binary_search` | Hard | Solved (2023-03-03) |
 | 414 | Valid Anagram #414 | `two_pointers_and_sliding_window` | Easy | Solved (2023-03-16) |
 | 416 | Binary Search #416 | `binary_search` | Hard | Solved (2023-03-17) |
+| 430 | Binary Search #430 | `binary_search` | Medium | Solved (2023-03-23) |
