@@ -9,3 +9,6 @@ def climb(n):
 
 # Refactor Iteration 2 (2022-06-27):
 # Added memoization / pointer optimization
+
+# Refactor Iteration 3 (2023-03-28):
+# Added memoization / pointer optimization
