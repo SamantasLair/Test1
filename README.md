@@ -105,3 +105,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 416 | Binary Search #416 | `binary_search` | Hard | Solved (2023-03-17) |
 | 430 | Binary Search #430 | `binary_search` | Medium | Solved (2023-03-23) |
 | 444 | Binary Search #444 | `binary_search` | Easy | Solved (2023-03-26) |
+| 450 | Maximum Subarray #450 | `stack_and_queues` | Easy | Solved (2023-04-03) |
