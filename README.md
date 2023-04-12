@@ -108,3 +108,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 450 | Maximum Subarray #450 | `stack_and_queues` | Easy | Solved (2023-04-03) |
 | 453 | Climbing Stairs #453 | `dynamic_programming` | Easy | Solved (2023-04-05) |
 | 458 | Binary Search #458 | `binary_search` | Hard | Solved (2023-04-11) |
+| 460 | Climbing Stairs #460 | `dynamic_programming` | Medium | Solved (2023-04-12) |
