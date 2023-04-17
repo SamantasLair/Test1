@@ -10,3 +10,6 @@ def coin_change(coins, amount):
             res = min(res, 1 + coin_change(coins, amount - c))
     return res
 
+
+# Refactor Iteration 2 (2023-04-17):
+# Added memoization / pointer optimization
