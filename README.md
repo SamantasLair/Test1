@@ -110,3 +110,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 458 | Binary Search #458 | `binary_search` | Hard | Solved (2023-04-11) |
 | 460 | Climbing Stairs #460 | `dynamic_programming` | Medium | Solved (2023-04-12) |
 | 468 | Coin Change #468 | `math_and_bit_manipulation` | Easy | Solved (2023-04-25) |
+| 473 | Reverse Linked List #473 | `trees_and_graphs` | Hard | Solved (2023-05-03) |
