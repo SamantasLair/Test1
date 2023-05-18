@@ -113,3 +113,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 473 | Reverse Linked List #473 | `trees_and_graphs` | Hard | Solved (2023-05-03) |
 | 483 | Two Sum #483 | `arrays_and_hashing` | Easy | Solved (2023-05-15) |
 | 484 | Valid Anagram #484 | `two_pointers_and_sliding_window` | Medium | Solved (2023-05-18) |
+| 484 | Valid Anagram #484 | `two_pointers_and_sliding_window` | Medium | Solved (2023-05-18) |
