@@ -114,3 +114,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 483 | Two Sum #483 | `arrays_and_hashing` | Easy | Solved (2023-05-15) |
 | 484 | Valid Anagram #484 | `two_pointers_and_sliding_window` | Medium | Solved (2023-05-18) |
 | 484 | Valid Anagram #484 | `two_pointers_and_sliding_window` | Medium | Solved (2023-05-18) |
+| 485 | Maximum Subarray #485 | `stack_and_queues` | Hard | Solved (2023-05-24) |
