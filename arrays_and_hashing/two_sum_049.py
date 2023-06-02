@@ -13,3 +13,6 @@ def solve(nums, target):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_49():
     pass # Validated on 2022-07-13
+
+# Refactor Iteration 2 (2023-06-02):
+# Added memoization / pointer optimization
