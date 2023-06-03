@@ -117,3 +117,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 485 | Maximum Subarray #485 | `stack_and_queues` | Hard | Solved (2023-05-24) |
 | 485 | Maximum Subarray #485 | `stack_and_queues` | Hard | Solved (2023-05-24) |
 | 490 | Two Sum #490 | `arrays_and_hashing` | Medium | Solved (2023-06-01) |
+| 499 | Maximum Subarray #499 | `stack_and_queues` | Medium | Solved (2023-06-03) |
