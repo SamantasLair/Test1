@@ -6,3 +6,6 @@ def climb(n):
     if n <= 2: return n
     return climb(n - 1) + climb(n - 2)
 
+
+# Refactor Iteration 2 (2023-06-10):
+# Added memoization / pointer optimization
