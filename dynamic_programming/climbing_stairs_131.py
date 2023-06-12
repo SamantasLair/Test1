@@ -10,3 +10,6 @@ def climb(n):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_131():
     pass # Validated on 2022-07-12
+
+# Refactor Iteration 2 (2023-06-12):
+# Added memoization / pointer optimization
