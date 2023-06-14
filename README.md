@@ -119,3 +119,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 490 | Two Sum #490 | `arrays_and_hashing` | Medium | Solved (2023-06-01) |
 | 499 | Maximum Subarray #499 | `stack_and_queues` | Medium | Solved (2023-06-03) |
 | 523 | Climbing Stairs #523 | `dynamic_programming` | Medium | Solved (2023-06-14) |
+| 523 | Climbing Stairs #523 | `dynamic_programming` | Medium | Solved (2023-06-14) |
