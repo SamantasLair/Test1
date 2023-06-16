@@ -8,3 +8,6 @@ def is_anagram(s, t):
 
 # Refactor Iteration 2 (2022-11-17):
 # Added memoization / pointer optimization
+
+# Refactor Iteration 3 (2023-06-16):
+# Added memoization / pointer optimization
