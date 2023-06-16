@@ -120,3 +120,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 499 | Maximum Subarray #499 | `stack_and_queues` | Medium | Solved (2023-06-03) |
 | 523 | Climbing Stairs #523 | `dynamic_programming` | Medium | Solved (2023-06-14) |
 | 523 | Climbing Stairs #523 | `dynamic_programming` | Medium | Solved (2023-06-14) |
+| 527 | Maximum Subarray #527 | `stack_and_queues` | Hard | Solved (2023-06-16) |
