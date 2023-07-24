@@ -123,3 +123,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 527 | Maximum Subarray #527 | `stack_and_queues` | Hard | Solved (2023-06-16) |
 | 531 | Coin Change #531 | `math_and_bit_manipulation` | Easy | Solved (2023-06-17) |
 | 543 | Reverse Linked List #543 | `trees_and_graphs` | Easy | Solved (2023-07-04) |
+| 551 | Climbing Stairs #551 | `dynamic_programming` | Hard | Solved (2023-07-24) |
