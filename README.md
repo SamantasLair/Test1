@@ -124,3 +124,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 531 | Coin Change #531 | `math_and_bit_manipulation` | Easy | Solved (2023-06-17) |
 | 543 | Reverse Linked List #543 | `trees_and_graphs` | Easy | Solved (2023-07-04) |
 | 551 | Climbing Stairs #551 | `dynamic_programming` | Hard | Solved (2023-07-24) |
+| 554 | Valid Anagram #554 | `two_pointers_and_sliding_window` | Hard | Solved (2023-07-28) |
