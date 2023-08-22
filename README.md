@@ -127,3 +127,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 554 | Valid Anagram #554 | `two_pointers_and_sliding_window` | Hard | Solved (2023-07-28) |
 | 554 | Valid Anagram #554 | `two_pointers_and_sliding_window` | Hard | Solved (2023-07-31) |
 | 558 | Climbing Stairs #558 | `dynamic_programming` | Easy | Solved (2023-08-07) |
+| 562 | Maximum Subarray #562 | `stack_and_queues` | Medium | Solved (2023-08-22) |
