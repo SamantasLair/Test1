@@ -131,3 +131,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 562 | Maximum Subarray #562 | `stack_and_queues` | Medium | Solved (2023-08-23) |
 | 567 | Two Sum #567 | `arrays_and_hashing` | Easy | Solved (2023-08-29) |
 | 573 | Coin Change #573 | `math_and_bit_manipulation` | Easy | Solved (2023-09-02) |
+| 587 | Coin Change #587 | `math_and_bit_manipulation` | Hard | Solved (2023-09-18) |
