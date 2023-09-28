@@ -133,3 +133,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 573 | Coin Change #573 | `math_and_bit_manipulation` | Easy | Solved (2023-09-02) |
 | 587 | Coin Change #587 | `math_and_bit_manipulation` | Hard | Solved (2023-09-18) |
 | 590 | Maximum Subarray #590 | `stack_and_queues` | Hard | Solved (2023-09-21) |
+| 592 | Reverse Linked List #592 | `trees_and_graphs` | Medium | Solved (2023-09-28) |
