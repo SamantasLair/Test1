@@ -135,3 +135,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 590 | Maximum Subarray #590 | `stack_and_queues` | Hard | Solved (2023-09-21) |
 | 592 | Reverse Linked List #592 | `trees_and_graphs` | Medium | Solved (2023-09-28) |
 | 594 | Coin Change #594 | `math_and_bit_manipulation` | Easy | Solved (2023-10-04) |
+| 600 | Climbing Stairs #600 | `dynamic_programming` | Easy | Solved (2023-10-09) |
