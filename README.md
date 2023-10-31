@@ -139,3 +139,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 609 | Two Sum #609 | `arrays_and_hashing` | Easy | Solved (2023-10-16) |
 | 621 | Climbing Stairs #621 | `dynamic_programming` | Easy | Solved (2023-10-27) |
 | 621 | Climbing Stairs #621 | `dynamic_programming` | Easy | Solved (2023-10-30) |
+| 621 | Climbing Stairs #621 | `dynamic_programming` | Easy | Solved (2023-10-31) |
