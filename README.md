@@ -140,3 +140,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 621 | Climbing Stairs #621 | `dynamic_programming` | Easy | Solved (2023-10-27) |
 | 621 | Climbing Stairs #621 | `dynamic_programming` | Easy | Solved (2023-10-30) |
 | 621 | Climbing Stairs #621 | `dynamic_programming` | Easy | Solved (2023-10-31) |
+| 634 | Reverse Linked List #634 | `trees_and_graphs` | Medium | Solved (2023-11-17) |
