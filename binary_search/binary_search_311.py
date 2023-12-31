@@ -8,3 +8,6 @@ def search(nums, target):
             return idx
     return -1
 
+
+# Refactor Iteration 2 (2024-01-01):
+# Added memoization / pointer optimization
