@@ -148,3 +148,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 672 | Two Sum #672 | `arrays_and_hashing` | Easy | Solved (2023-12-28) |
 | 680 | Valid Anagram #680 | `two_pointers_and_sliding_window` | Hard | Solved (2023-12-31) |
 | 680 | Valid Anagram #680 | `two_pointers_and_sliding_window` | Hard | Solved (2023-12-31) |
+| 680 | Valid Anagram #680 | `two_pointers_and_sliding_window` | Hard | Solved (2023-12-31) |
