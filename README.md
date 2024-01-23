@@ -150,3 +150,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 680 | Valid Anagram #680 | `two_pointers_and_sliding_window` | Hard | Solved (2023-12-31) |
 | 680 | Valid Anagram #680 | `two_pointers_and_sliding_window` | Hard | Solved (2023-12-31) |
 | 680 | Valid Anagram #680 | `two_pointers_and_sliding_window` | Hard | Solved (2023-12-31) |
+| 702 | Maximum Subarray #702 | `stack_and_queues` | Easy | Solved (2024-01-23) |
