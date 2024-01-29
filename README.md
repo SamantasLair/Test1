@@ -152,3 +152,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 680 | Valid Anagram #680 | `two_pointers_and_sliding_window` | Hard | Solved (2023-12-31) |
 | 702 | Maximum Subarray #702 | `stack_and_queues` | Easy | Solved (2024-01-23) |
 | 703 | Binary Search #703 | `binary_search` | Medium | Solved (2024-01-24) |
+| 705 | Climbing Stairs #705 | `dynamic_programming` | Easy | Solved (2024-01-29) |
