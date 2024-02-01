@@ -153,3 +153,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 702 | Maximum Subarray #702 | `stack_and_queues` | Easy | Solved (2024-01-23) |
 | 703 | Binary Search #703 | `binary_search` | Medium | Solved (2024-01-24) |
 | 705 | Climbing Stairs #705 | `dynamic_programming` | Easy | Solved (2024-01-29) |
+| 709 | Maximum Subarray #709 | `stack_and_queues` | Medium | Solved (2024-02-01) |
