@@ -156,3 +156,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 709 | Maximum Subarray #709 | `stack_and_queues` | Medium | Solved (2024-02-01) |
 | 720 | Coin Change #720 | `math_and_bit_manipulation` | Easy | Solved (2024-02-16) |
 | 721 | Two Sum #721 | `arrays_and_hashing` | Medium | Solved (2024-02-17) |
+| 721 | Two Sum #721 | `arrays_and_hashing` | Medium | Solved (2024-02-17) |
