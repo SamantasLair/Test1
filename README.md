@@ -157,3 +157,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 720 | Coin Change #720 | `math_and_bit_manipulation` | Easy | Solved (2024-02-16) |
 | 721 | Two Sum #721 | `arrays_and_hashing` | Medium | Solved (2024-02-17) |
 | 721 | Two Sum #721 | `arrays_and_hashing` | Medium | Solved (2024-02-17) |
+| 722 | Valid Anagram #722 | `two_pointers_and_sliding_window` | Hard | Solved (2024-02-18) |
