@@ -158,3 +158,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 721 | Two Sum #721 | `arrays_and_hashing` | Medium | Solved (2024-02-17) |
 | 721 | Two Sum #721 | `arrays_and_hashing` | Medium | Solved (2024-02-17) |
 | 722 | Valid Anagram #722 | `two_pointers_and_sliding_window` | Hard | Solved (2024-02-18) |
+| 725 | Reverse Linked List #725 | `trees_and_graphs` | Hard | Solved (2024-02-21) |
