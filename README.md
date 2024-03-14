@@ -164,3 +164,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 736 | Valid Anagram #736 | `two_pointers_and_sliding_window` | Medium | Solved (2024-03-10) |
 | 744 | Maximum Subarray #744 | `stack_and_queues` | Easy | Solved (2024-03-13) |
 | 744 | Maximum Subarray #744 | `stack_and_queues` | Easy | Solved (2024-03-13) |
+| 745 | Binary Search #745 | `binary_search` | Medium | Solved (2024-03-14) |
