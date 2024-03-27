@@ -169,3 +169,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 773 | Binary Search #773 | `binary_search` | Hard | Solved (2024-03-24) |
 | 779 | Maximum Subarray #779 | `stack_and_queues` | Hard | Solved (2024-03-25) |
 | 782 | Climbing Stairs #782 | `dynamic_programming` | Hard | Solved (2024-03-26) |
+| 785 | Valid Anagram #785 | `two_pointers_and_sliding_window` | Hard | Solved (2024-03-27) |
