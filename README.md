@@ -171,3 +171,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 782 | Climbing Stairs #782 | `dynamic_programming` | Hard | Solved (2024-03-26) |
 | 785 | Valid Anagram #785 | `two_pointers_and_sliding_window` | Hard | Solved (2024-03-27) |
 | 791 | Two Sum #791 | `arrays_and_hashing` | Hard | Solved (2024-04-03) |
+| 797 | Coin Change #797 | `math_and_bit_manipulation` | Hard | Solved (2024-04-09) |
