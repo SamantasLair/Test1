@@ -172,3 +172,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 785 | Valid Anagram #785 | `two_pointers_and_sliding_window` | Hard | Solved (2024-03-27) |
 | 791 | Two Sum #791 | `arrays_and_hashing` | Hard | Solved (2024-04-03) |
 | 797 | Coin Change #797 | `math_and_bit_manipulation` | Hard | Solved (2024-04-09) |
+| 798 | Two Sum #798 | `arrays_and_hashing` | Easy | Solved (2024-04-10) |
