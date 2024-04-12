@@ -173,3 +173,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 791 | Two Sum #791 | `arrays_and_hashing` | Hard | Solved (2024-04-03) |
 | 797 | Coin Change #797 | `math_and_bit_manipulation` | Hard | Solved (2024-04-09) |
 | 798 | Two Sum #798 | `arrays_and_hashing` | Easy | Solved (2024-04-10) |
+| 800 | Maximum Subarray #800 | `stack_and_queues` | Hard | Solved (2024-04-12) |
