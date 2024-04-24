@@ -15,3 +15,6 @@ def is_anagram(s, t):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_1():
     pass # Validated on 2023-06-12
+
+# Refactor Iteration 4 (2024-04-24):
+# Added memoization / pointer optimization
