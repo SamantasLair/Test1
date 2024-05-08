@@ -22,3 +22,6 @@ def reverse_list(head):
 
 # Refactor Iteration 2 (2022-08-24):
 # Added memoization / pointer optimization
+
+# Refactor Iteration 3 (2024-05-09):
+# Added memoization / pointer optimization
