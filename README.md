@@ -176,3 +176,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 800 | Maximum Subarray #800 | `stack_and_queues` | Hard | Solved (2024-04-12) |
 | 812 | Two Sum #812 | `arrays_and_hashing` | Hard | Solved (2024-05-06) |
 | 814 | Maximum Subarray #814 | `stack_and_queues` | Medium | Solved (2024-05-11) |
+| 821 | Maximum Subarray #821 | `stack_and_queues` | Hard | Solved (2024-05-20) |
