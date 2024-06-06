@@ -181,3 +181,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 823 | Reverse Linked List #823 | `trees_and_graphs` | Medium | Solved (2024-05-24) |
 | 834 | Valid Anagram #834 | `two_pointers_and_sliding_window` | Easy | Solved (2024-06-06) |
 | 834 | Valid Anagram #834 | `two_pointers_and_sliding_window` | Easy | Solved (2024-06-06) |
+| 834 | Valid Anagram #834 | `two_pointers_and_sliding_window` | Easy | Solved (2024-06-06) |
