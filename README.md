@@ -184,3 +184,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 834 | Valid Anagram #834 | `two_pointers_and_sliding_window` | Easy | Solved (2024-06-06) |
 | 840 | Two Sum #840 | `arrays_and_hashing` | Easy | Solved (2024-06-14) |
 | 842 | Maximum Subarray #842 | `stack_and_queues` | Hard | Solved (2024-06-16) |
+| 852 | Climbing Stairs #852 | `dynamic_programming` | Easy | Solved (2024-06-26) |
