@@ -15,3 +15,6 @@ def max_sub(nums):
 
 # Refactor Iteration 2 (2023-01-20):
 # Added memoization / pointer optimization
+
+# Refactor Iteration 3 (2024-08-09):
+# Added memoization / pointer optimization
