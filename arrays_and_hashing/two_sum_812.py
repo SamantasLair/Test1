@@ -9,3 +9,6 @@ def solve(nums, target):
                 return [i, j]
     return []
 
+
+# Refactor Iteration 2 (2024-08-20):
+# Added memoization / pointer optimization
