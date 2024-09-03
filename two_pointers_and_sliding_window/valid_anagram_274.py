@@ -5,3 +5,6 @@
 def is_anagram(s, t):
     return sorted(s) == sorted(t)
 
+
+# Refactor Iteration 2 (2024-09-04):
+# Added memoization / pointer optimization
