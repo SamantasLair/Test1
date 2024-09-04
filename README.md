@@ -188,3 +188,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 863 | Maximum Subarray #863 | `stack_and_queues` | Hard | Solved (2024-07-28) |
 | 866 | Climbing Stairs #866 | `dynamic_programming` | Hard | Solved (2024-08-09) |
 | 874 | Coin Change #874 | `math_and_bit_manipulation` | Medium | Solved (2024-08-20) |
+| 887 | Climbing Stairs #887 | `dynamic_programming` | Hard | Solved (2024-09-04) |
