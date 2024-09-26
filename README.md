@@ -192,3 +192,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 887 | Climbing Stairs #887 | `dynamic_programming` | Hard | Solved (2024-09-04) |
 | 888 | Coin Change #888 | `math_and_bit_manipulation` | Easy | Solved (2024-09-10) |
 | 889 | Two Sum #889 | `arrays_and_hashing` | Medium | Solved (2024-09-12) |
+| 896 | Two Sum #896 | `arrays_and_hashing` | Hard | Solved (2024-09-26) |
