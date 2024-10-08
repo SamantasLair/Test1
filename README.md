@@ -193,3 +193,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 888 | Coin Change #888 | `math_and_bit_manipulation` | Easy | Solved (2024-09-10) |
 | 889 | Two Sum #889 | `arrays_and_hashing` | Medium | Solved (2024-09-12) |
 | 896 | Two Sum #896 | `arrays_and_hashing` | Hard | Solved (2024-09-26) |
+| 914 | Reverse Linked List #914 | `trees_and_graphs` | Hard | Solved (2024-10-08) |
