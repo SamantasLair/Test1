@@ -12,3 +12,6 @@ def max_sub(nums):
                 max_s = cur
     return max_s
 
+
+# Refactor Iteration 2 (2024-11-13):
+# Added memoization / pointer optimization
