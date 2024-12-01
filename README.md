@@ -200,3 +200,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 938 | Two Sum #938 | `arrays_and_hashing` | Hard | Solved (2024-11-14) |
 | 941 | Binary Search #941 | `binary_search` | Hard | Solved (2024-11-17) |
 | 945 | Two Sum #945 | `arrays_and_hashing` | Easy | Solved (2024-11-24) |
+| 951 | Coin Change #951 | `math_and_bit_manipulation` | Easy | Solved (2024-12-01) |
