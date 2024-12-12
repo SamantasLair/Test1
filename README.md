@@ -202,3 +202,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 945 | Two Sum #945 | `arrays_and_hashing` | Easy | Solved (2024-11-24) |
 | 951 | Coin Change #951 | `math_and_bit_manipulation` | Easy | Solved (2024-12-01) |
 | 958 | Coin Change #958 | `math_and_bit_manipulation` | Medium | Solved (2024-12-09) |
+| 961 | Maximum Subarray #961 | `stack_and_queues` | Medium | Solved (2024-12-12) |
