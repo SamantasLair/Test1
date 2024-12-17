@@ -203,3 +203,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 951 | Coin Change #951 | `math_and_bit_manipulation` | Easy | Solved (2024-12-01) |
 | 958 | Coin Change #958 | `math_and_bit_manipulation` | Medium | Solved (2024-12-09) |
 | 961 | Maximum Subarray #961 | `stack_and_queues` | Medium | Solved (2024-12-12) |
+| 963 | Reverse Linked List #963 | `trees_and_graphs` | Easy | Solved (2024-12-17) |
