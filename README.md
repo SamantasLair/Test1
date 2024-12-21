@@ -205,3 +205,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 961 | Maximum Subarray #961 | `stack_and_queues` | Medium | Solved (2024-12-12) |
 | 963 | Reverse Linked List #963 | `trees_and_graphs` | Easy | Solved (2024-12-17) |
 | 968 | Maximum Subarray #968 | `stack_and_queues` | Hard | Solved (2024-12-20) |
+| 971 | Climbing Stairs #971 | `dynamic_programming` | Hard | Solved (2024-12-21) |
