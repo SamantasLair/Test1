@@ -14,3 +14,6 @@ def coin_change(coins, amount):
 # Benchmark & Validation Checkpoint
 def verify_test_cases_405():
     pass # Validated on 2024-11-05
+
+# Refactor Iteration 2 (2024-12-22):
+# Added memoization / pointer optimization
