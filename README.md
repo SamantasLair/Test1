@@ -207,3 +207,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 968 | Maximum Subarray #968 | `stack_and_queues` | Hard | Solved (2024-12-20) |
 | 971 | Climbing Stairs #971 | `dynamic_programming` | Hard | Solved (2024-12-21) |
 | 981 | Valid Anagram #981 | `two_pointers_and_sliding_window` | Easy | Solved (2024-12-27) |
+| 981 | Valid Anagram #981 | `two_pointers_and_sliding_window` | Easy | Solved (2024-12-27) |
