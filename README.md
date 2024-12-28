@@ -208,3 +208,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 971 | Climbing Stairs #971 | `dynamic_programming` | Hard | Solved (2024-12-21) |
 | 981 | Valid Anagram #981 | `two_pointers_and_sliding_window` | Easy | Solved (2024-12-27) |
 | 981 | Valid Anagram #981 | `two_pointers_and_sliding_window` | Easy | Solved (2024-12-27) |
+| 985 | Climbing Stairs #985 | `dynamic_programming` | Medium | Solved (2024-12-28) |
