@@ -210,3 +210,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 981 | Valid Anagram #981 | `two_pointers_and_sliding_window` | Easy | Solved (2024-12-27) |
 | 985 | Climbing Stairs #985 | `dynamic_programming` | Medium | Solved (2024-12-28) |
 | 986 | Coin Change #986 | `math_and_bit_manipulation` | Hard | Solved (2024-12-29) |
+| 986 | Coin Change #986 | `math_and_bit_manipulation` | Hard | Solved (2024-12-29) |
