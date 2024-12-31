@@ -211,3 +211,4 @@ Repository for tracking data structure implementations, algorithmic challenges, 
 | 985 | Climbing Stairs #985 | `dynamic_programming` | Medium | Solved (2024-12-28) |
 | 986 | Coin Change #986 | `math_and_bit_manipulation` | Hard | Solved (2024-12-29) |
 | 986 | Coin Change #986 | `math_and_bit_manipulation` | Hard | Solved (2024-12-29) |
+| 991 | Reverse Linked List #991 | `trees_and_graphs` | Medium | Solved (2024-12-31) |
